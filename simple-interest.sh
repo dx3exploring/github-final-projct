@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # dx3explring
+   # dx3exploring
 
    # Input:
    # p, principal amount
